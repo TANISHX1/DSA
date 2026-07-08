@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TANISHX1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
