@@ -29,4 +29,21 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
