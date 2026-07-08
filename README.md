@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TANISHX1/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
 ## Array
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
