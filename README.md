@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TANISHX1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHX1/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
