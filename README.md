@@ -35,6 +35,7 @@
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANISHX1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHX1/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/TANISHX1/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANISHX1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TANISHX1/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
