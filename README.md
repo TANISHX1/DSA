@@ -49,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0020-valid-parentheses](https://github.com/TANISHX1/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -98,4 +100,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
