@@ -73,6 +73,7 @@
 | [0020-valid-parentheses](https://github.com/TANISHX1/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANISHX1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/TANISHX1/DSA/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TANISHX1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/TANISHX1/DSA/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/TANISHX1/DSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
