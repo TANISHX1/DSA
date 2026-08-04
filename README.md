@@ -43,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANISHX1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
