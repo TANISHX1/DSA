@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TANISHX1/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/TANISHX1/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
