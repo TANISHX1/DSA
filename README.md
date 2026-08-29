@@ -50,6 +50,7 @@
 | [0011-container-with-most-water](https://github.com/TANISHX1/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TANISHX1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/TANISHX1/DSA/tree/master/0228-summary-ranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
