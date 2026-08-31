@@ -14,6 +14,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/TANISHX1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TANISHX1/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TANISHX1/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TANISHX1/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
