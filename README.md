@@ -44,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANISHX1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/TANISHX1/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 | [0228-summary-ranges](https://github.com/TANISHX1/DSA/tree/master/0228-summary-ranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TANISHX1/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TANISHX1/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/TANISHX1/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
