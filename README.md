@@ -25,6 +25,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TANISHX1/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/TANISHX1/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/TANISHX1/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/TANISHX1/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/TANISHX1/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
