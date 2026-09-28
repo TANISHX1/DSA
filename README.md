@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/TANISHX1/DSA/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +135,8 @@
 | [0175-combine-two-tables](https://github.com/TANISHX1/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/TANISHX1/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/TANISHX1/DSA/tree/master/0183-customers-who-never-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/TANISHX1/DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
