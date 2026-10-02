@@ -25,6 +25,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TANISHX1/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHX1/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/TANISHX1/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -140,6 +141,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/TANISHX1/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/TANISHX1/DSA/tree/master/0338-counting-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHX1/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
