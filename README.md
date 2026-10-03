@@ -146,6 +146,7 @@
 | [0190-reverse-bits](https://github.com/TANISHX1/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/TANISHX1/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/TANISHX1/DSA/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/TANISHX1/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHX1/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TANISHX1/DSA/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
