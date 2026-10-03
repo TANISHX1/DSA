@@ -47,6 +47,7 @@
 | [0141-linked-list-cycle](https://github.com/TANISHX1/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TANISHX1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/TANISHX1/DSA/tree/master/0389-find-the-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/TANISHX1/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Array
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TANISHX1/DSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/TANISHX1/DSA/tree/master/0389-find-the-difference) |
 | [4107-find-missing-elements](https://github.com/TANISHX1/DSA/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/TANISHX1/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/TANISHX1/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TANISHX1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/TANISHX1/DSA/tree/master/0389-find-the-difference) |
 | [2128-reverse-prefix-of-word](https://github.com/TANISHX1/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/TANISHX1/DSA/tree/master/3447-clear-digits) |
 ## String Matching
@@ -142,6 +145,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/TANISHX1/DSA/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/TANISHX1/DSA/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/TANISHX1/DSA/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TANISHX1/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TANISHX1/DSA/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
